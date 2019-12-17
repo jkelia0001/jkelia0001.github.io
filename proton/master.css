@@ -4,3 +4,6 @@ kbd {
 *:hover {
   transistion: all 0.3s ease-in-out;
 }
+kbd:hover {
+  box-shadow: 0px 0px;
+}
